@@ -45,7 +45,7 @@ An asterisk (*) will be placed at the current active environment.
 
     Current active environment
 
-Using YMAL
+Using YAML
 ***********
 
 Alternatively, we can create a fixed environment file and execute using ``conda env create -f environment.yml``.
